@@ -1,6 +1,6 @@
 # FAQ
 
-1. Tại sao lao sốt về chiều?
+1. Tại sao lao sốt về chiều? Gầy, sút cân?
 - 
 2. Lao màng phổi gọi là tràn dịch màng phổi huyết thanh tơ?
 - 
