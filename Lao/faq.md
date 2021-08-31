@@ -67,7 +67,7 @@ Lúc đầu đau do 2 lá phổi cọ sát vào nhau. Sau đó 2 lá này tách 
 1. HIV có lao phổi là giai đoạn mấy? Lao ngoài phổi giai đoạn mấy?
 [WIP] HIV có lao phổi là giai đoạn 2.
 
-14. Tại sao không dùng Streptomycin điều trị lao cho BN HIV?
+1. Tại sao không dùng Streptomycin điều trị lao cho BN HIV?
 
 Streptomycin điều trị cần tiêm bắp nên có nguy cơ lây nhiễm HIV cho nhân viên y tế.
 
@@ -75,7 +75,7 @@ Streptomycin điều trị cần tiêm bắp nên có nguy cơ lây nhiễm HIV 
 
 Do thuốc điều trị lao có nhiều tác dụng phụ, đặc biệt gây hại cho gan và thận.
 
-16. Phân biệt say rượu và rối loạn tiền đình đối với BN lao?
+1. Phân biệt say rượu và rối loạn tiền đình đối với BN lao?
 
 Dựa vào dáng đi để phân biệt. Người say rượu thường đi loạng choạng cả 2 chân, ngã trên đường dốc, gồ ghề. BN lao có rối loạn
 tiền đình thì thường đi nghiêng về 1 bên nên dễ ngã.
