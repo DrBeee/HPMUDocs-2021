@@ -1,7 +1,9 @@
 # FAQ
 
 1. Tại sao lao sốt về chiều? Biểu hiện gầy, sút cân?
-- [WIP] Lao gầy sút cân do hội chứng nhiễm trùng, nhiễm độc.
+
+[WIP] Lao gầy sút cân do hội chứng nhiễm trùng, nhiễm độc.
+
 2. Lao màng phổi gọi là tràn dịch màng phổi huyết thanh tơ vì sao?
 - Khi chọc dịch màng phổi có màu vàng chanh chứa hồng cầu, fibrin nên được gọi tràn dịch màng phổi
 thanh tơ huyết. Dịch màng phổi đục do ổ loét bã đậu vỡ.
