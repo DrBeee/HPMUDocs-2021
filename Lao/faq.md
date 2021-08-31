@@ -40,3 +40,5 @@
 -
 20. Tại sao dùng Mantoux ở trẻ em mà không dùng Quanti-feron?
 - 
+21. CT, đo chức năng thông khí trong lao màng phổi khi nào?
+-
