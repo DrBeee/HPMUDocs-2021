@@ -42,3 +42,35 @@
 - 
 21. CT, đo chức năng thông khí trong lao màng phổi khi nào?
 -
+22. Nguyên tắc chọc dịch, ví trí và áp lực chọc dịch màng phổi?
+- 
+23. Khi nào trong lao không dùng corticoid?
+- 
+24. Lao màng bụng rối loạn tiêu hoá như thế nào?
+-
+25. Lao màng bụng chọc dịch như thế nào?
+-
+26. Chống dày dính màng phổi (tiếng cọ), màng bụng như thế nào?
+- 
+26. Hình ảnh Xquang xương nghĩ đến lao.
+-
+27. Hình ảnh Xquang phổi nghĩ đến lao.
+- 
+28. Tại sao không làm kháng sinh đồ với Pyrazinamide (Z)?
+- 
+29. Tại sao phối hợp R và H gây tăng viêm gan? H gây viêm dây thần kinh? Z gây giả gout (khác gout thật)?
+-
+30. Tại sao dùng thuốc trị lao lúc đói, cách bữa ăn 2-3 giờ?
+-
+31. Tại sao thời gian điều trị của từng phác đồ điều trị lao khác nhau?
+-
+32. Phân biệt đa kháng thuốc và kháng đa thuốc trong lao.
+-
+33. Tại sao lao thânh gây thiếu máu, tăng huyết áp?
+-
+34. Xét nghiệm nước tiểu như nào nghĩ nhiều đến lao?
+-
+35. Đặc điểm nghĩ đến lao sinh dục.
+- 
+36. Vị trí sinh thiết lao sinh dục
+-
