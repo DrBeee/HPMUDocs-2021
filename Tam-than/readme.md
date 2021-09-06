@@ -7,4 +7,4 @@ lâm sàng, bệnh nguyên, bệnh sinh, các phương pháp điều trị và d
 
 Danh sách các bài giảng:
 
-- [Tâm Thần Học HPMU 2021](https://youtube.com/playlist?list=PLL1t1-UomvZ9_zWZO-T9dLhe9sfNK7B49)
+- [Bài Giảng Tâm Thần HPMU 2021](https://youtube.com/playlist?list=PLL1t1-UomvZ9_zWZO-T9dLhe9sfNK7B49)

@@ -9,4 +9,4 @@ quá trình hội nhập của người bệnh.
 
 Danh sách cac bài giảng:
 
-- [Phục Hồi Chức Năng HPMU 2021](https://youtube.com/playlist?list=PLL1t1-UomvZ_RY_8pBpYFpSf1EuuoCnI4)
+- [Bài Giảng Phục Hồi Chức Năng HPMU 2021](https://youtube.com/playlist?list=PLL1t1-UomvZ_RY_8pBpYFpSf1EuuoCnI4)
