@@ -1,9 +1,9 @@
 # HPMUDocs 2021
 
-**HPMUDocs 2021** là dự án lưu trữ kiến thức Y khoa 2021 của **MedPocket**.
+HPMUDocs 2021 là dự án lưu trữ kiến thức Y khoa 2021 của MedPocket.
 
-## License
+## Bản quyền
 
-Copyright &copy; **MedPocket**. All rights reserved.
+Bản quyền &copy; MedPocket.
 
-Licensed under the [CC0-1.0](LICENSE) license.
+Cấp phép theo giấy phép [CC0-1.0](LICENSE).
