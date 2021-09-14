@@ -110,7 +110,8 @@ men monoacetyl hydrazyl gây tăng độc tính.
 - Trong các thuốc điều trị lao luôn có Rifampicin (R), hấp thu theo chu kỳ gan ruột. Vì thế dùng lúc đói hấp thu tốt nhất, và cách
 bữa ăn 2-3 giờ để tránh tương tác với thức ăn. R có chu kỳ gan ruột nên tồn tại lâu trong máu với nồng độ cao thích hợp điều trị lao.
 ## 32. Tại sao thời gian điều trị của từng phác đồ điều trị lao khác nhau?
-Một số thể lao ngấm thuốc kém nên thời gian điều trị các phác đồ là khác nhau.
+Một số thể lao ngấm thuốc kém nên thời gian điều trị các phác đồ là khác nhau. Ví dụ lao hạch có ít mạch máu đến nuôi dưỡng nên cần
+dùng phác đồ 12 tháng.
 ## 33. Phân biệt đa kháng thuốc và kháng đa thuốc trong lao.
 Kháng đa thuốc đơn giản là kháng nhiều loại thuốc. Đa kháng thuốc hàng 1 là kháng Isoniazid và Rifampicin, hàng 2 là kháng Quinolone và
 Aminoglycosid. Siêu kháng thuốc là đa kháng hàng 1 kết hợp đa kháng hàng 2.
@@ -143,7 +144,11 @@ Hạt kê 1-3 mm. Đặc trưng bởi 3 đều (độ cản quang, kích thướ
 - CD4 ~ 200-350 TB/mm3: Điều trị lao ngay. Dùng ART sau giai đoạn tấn công.
 - CD4 > 350 TB/mm3: Điều trị lao và ART cùng lúc.
 ## 44. Phân mức độ hang lao
-Kích thước < 2 cm là hang lao bé. 2-4 cm là trung bình. 4-6 cm là lớn. Trên 6 cm là lớn.## 45. Tuổi mắc lao sơ nhiễm (nhiễm lao lần đầu tiên).
+- Kích thước < 2 cm là hang lao bé.
+- 2-4 cm là trung bình.
+- 4-6 cm là lớn.
+- Trên 6 cm là khổng lồ.
+## 45. Tuổi mắc lao sơ nhiễm (nhiễm lao lần đầu tiên).
 Mắc chủ yếu 1-5 tuổi, ít gặp ở 8-12 tuổi, rất hiếm ở người lớn. Ở Việt Nam, nhắc lao sơ nhiễm nhắc đến đối tượng trẻ em.
 ## 46. Khi nào chẩn đoán theo dõi lao, khi nào chẩn đoán kao tiềm ẩn?
 Theo dõi lao khi không có biểu hiện lâm sàng và phản ứng Mantoux (-). Lao tiềm ẩn khi không có biểu hiện lâm sàng nhưng Mantoux (+).
@@ -156,6 +161,8 @@ Có, các thuốc điều trị lao ảnh hưởng lớn đến gan và thận.
 - Trẻ được tiêm BCG cần cục >= 15 mm hoặc có hiện tượng chuyển phản ứng.
 - Trẻ nhiễm HIV cục chỉ cần >= 5 mm.
 ## 50. Phân biệt phản phản ứng Mantoux và Quantiferon.
+- Mantoux là tiêm 1 lượng kháng nguyên vào cơ thể rồi xem phản ứng của cơ thể.
+- Quantiferon là phát hiện tình trạng nhiễm lao dựa vào định lượng nồng độ IFN Gamma trong máu.
 ## 51. Tiêu chuẩn chẩn đoán lao sơ nhiễm.
 Khi có 3/5 tiêu chuẩn sau:
 - Lâm sàng ho kéo dài (>2 tuần) không đáp ứng kháng sinh thông thường.
@@ -167,9 +174,9 @@ Khi có 3/5 tiêu chuẩn sau:
 - Trong thuốc điều trị không có Ethambutol (E) do gây độc thị giác. Người lớn có thể nhận biết được nhưng trẻ em khó phát hiện.
 - Điều trị corticoid để giảm kích thước hạch (thường có hạch to), giảm tình trạng vỡ hạch.
 ## 53. BN lao nghiện rượu tiên lượng xấu vì sao?
-Do bỏ trị.
+BN dễ bỏ trị.
 ## 54. Tại sao bỏ trị lại tiên lượng xấu?
-
+Dễ sinh ra kháng thuốc.
 ## 55. Tại sao cần phân biệt triệu chứng thần kinh do nghiện rượu và dùng thuốc trị lao INH? Biểu hiện như nào?
 Do nghiện rượu gây ra nhiều rối loạn tinh thần, tri giác, cảm giác. Thuốc trị lao INH cũng làm mất vitamin B6 là một chất quan trong
 trong hình thành dẫn truyền thần kinh vì thế mà cũng có các triệu chứng rối loạn thần kinh.
@@ -240,7 +247,7 @@ Làm khi hạch còn rắn vì vẫn giữ đượcc các cấu trúc.
 - Với lao màng não: Hàng rào máu não ngăn cản thuốc đi qua nên cũng cần thời gian điều trị dài.
 - Ngoài ra các tổ chức xơ ngăn cản mạch máu vận chuyển thuốc cũng là một nguyên nhân cần điều trị phác đồ 12 tháng.
 ## 78. Tại sao trong lao phổi không dùng corticoid?
-
+Do để tránh hang lao xơ hóa gây vỡ hang lao tràn khí.
 ## 79. Lao hạch ngoại vi có lây không?
 Có nếu tiếp xúc dịch tiết từ hạch.
 ## 80. Tiên lượng BN nhiễm lao hạch.
@@ -255,3 +262,24 @@ kiểm tra sẹo lao ở tháng thứ 9 khi tiêm vaccine sởi. Có thể kiể
 - Các nước phát triển tiêm nhắc lại ở 7 tuổi và 15 tuổi do hiệu giá kháng thể giảm dần theo thời gian mà ở các nước này
 ít tiếp xúc với vi khuẩn lao trong môi trường, nếu không tiêm sớm dễ mắc lao. Còn ở VN là nước đang phát triển, môi trường
 có tồn tại vi khuẩn lao nên tiếp xúc thường xuyên hơn. Đây chính là hiện tương Koch.
+## 84. Các mốc thời gian chẩn đoán bệnh lao.
+- Chẩn đoán sớm < 2 tháng.
+- Chẩn đoán trung bình từ 2-6 tháng.
+- Chẩn đoán muộn > 6 tháng.
+## 85. Làm thế nào để biết tổn thương mới hay cũ của hang lao trên phim Xquang?
+So sánh với màng xương trên cùng phim Xquang. Nếu tổn thương mới sẽ mờ hoặc mờ nhạt so với màng xương. Tổn thương cũ sẽ
+đậm hơn.
+## 86. Công thức chẩn đoán.
+Lao _____ có xác nhận vi khuẩn học thể _____. Ví dụ, lao phổi có xác nhận vi khuẩn học thể 2a 2 phổi.
+## 87. Vì sao nhiều BN lao cấy không mọc vi khuẩn?
+Do lấy mẫu sai hoặc do đã sử dụng kháng sinh trước đó.
+## 88. Cân nhắc lựa chọn phác đồ (thuốc) điều trị lao dựa trên các nguyên tắc nào?
+- Bệnh lao gì? (Theo phác đồ bộ y tế).
+- Có kháng thuốc không?
+- Có tiền sử dị ứng với thuốc điều trị lao không?
+- Chức năng gan, thận ra sao?
+## 89. Tiên lượng với một bệnh nhân lao dựa vào những yếu tố nào?
+- Tiên lượng gần dựa vào: Điều trị như thế nào? Đáp ứng điều trị ra sao? Kiểm soát bệnh lý kèm theo ra sao? Có hay không
+tác dụng phụ của thuốc?
+- Tiên lượng xa dựa vào: Tiên lượng gần trước đó. Có hay không bệnh lý kèm theo? Các yếu tố xấu kèm theo. Điều kiện kinh
+tế, ý thức điều trị, trình độ hiểu biết, thói quen có hại.
