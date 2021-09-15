@@ -61,7 +61,7 @@ Do thuốc điều trị lao có nhiều tác dụng phụ, đặc biệt gây h
 Dựa vào dáng đi để phân biệt. Người say rượu thường đi loạng choạng cả 2 chân, ngã trên đường dốc, gồ ghề. BN lao có rối loạn
 tiền đình thì thường đi nghiêng về 1 bên nên dễ ngã.
 ## 17. Đuôi khái huyết là gì?
-Đuôi khái huyết là sự thay đổi màu sắc của máu ho theo thời gian.
+Đuôi khái huyết là dấu hiệu đã ngừng chẩy máu, thường gặp trong lao phổi, máu khạc ra ít dần, đỏ thẫm rồi đen lại.
 ## 18. Khi nào được gọi dịch xét nghiệm tăng tế bào lympho? Tăng tế bào neutrophil?
 Khi lượng tế bào lympho trong dịch tăng trên 75%, neutrophil tăng trên 50%.
 ## 19. Màu sắc trong, đục của dịch màng nào biểu hiện gì?
@@ -283,3 +283,27 @@ Do lấy mẫu sai hoặc do đã sử dụng kháng sinh trước đó.
 tác dụng phụ của thuốc?
 - Tiên lượng xa dựa vào: Tiên lượng gần trước đó. Có hay không bệnh lý kèm theo? Các yếu tố xấu kèm theo. Điều kiện kinh
 tế, ý thức điều trị, trình độ hiểu biết, thói quen có hại.
+## 90. Kỹ thuật thở bóng phục hồi hô hấp như thế nào?
+- Nằm ngửa đầu gối gập 45°, khớp háng xoay ngoài:
+	+ Kỹ thuật viên đặt một hoặc hai tay lên góc sườn hoành theo nhịp thở của người
+	bệnh. Khi người bệnh thở ra tay kỹ thuật viên ép nhẹ vào ngực. Khi người bệnh
+	thở vào lồng ngực kháng lại tay kỹ thuật viên để nâng lên, tiếp sau bụng sẽ nâng
+	lên theo, tập như vậy nhiều lần một cách nhịp nhàng. Người bệnh hít vào bằng
+	mũi, thở ra bằng mồm.
+	+ Để người bệnh tự đặt tay vào góc sườn hoành, tự ép nhẹ khi thở ra, khi người
+	bệnh hít vào lồng ngực tự đẩy ra. Kỹ thuật viên theo dõi, đánh giá kết quả.
+- Tư thế ngồi người bệnh thư giãn, ngồi thăng bằng, tay đặt lên góc sườn hoành,
+tiếp tục tập thở.
+- Tư thế đứng tập thở trước gương soi để người bệnh tự kiểm tra việc thở của
+mình.
+- Tập thở phân thùy hoặc cạnh sườn: tập trung vào vùng tổn thương. Tùy theo vị trí
+vùng tổn thương mà kỹ thuật viên đặt tay lên thành ngực tương ứng: cạnh sườn
+một hoặc hai bên, phía trước hạ sườn…
+	+ Ở cuối thì thở ra tay kỹ thuật viên ấn đẩy lồng ngực, lồng ngực người bệnh
+	kháng lại tay kỹ thuật viên ở thì hít vào. 177
+	+ Yêu cầu người bệnh hít sâu vào và nín thở trong một thời gian, sau đó thở ra
+	chậm, đều.
+- Kỹ thuật viên đánh giá áp lực khi ấn đẩy lồng ngực, điều chỉnh kỹ thuật cho phù
+hợp để việc tập thở có hiệu quả cao nhất.
+- Tập thở bằng dụng cụ (bóng bay, ống thổi có khắc số, ống dẫn trong cốc nước, tờ
+giấy mỏng, thở vào gương, v.v) kỹ thuật này chủ yếu áp dụng với trẻ em.
