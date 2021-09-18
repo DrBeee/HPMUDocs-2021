@@ -37,8 +37,8 @@ coi là tiêu chuẩn nhưng theo kinh nghiệm lâm sàng.
 Công thức bạch cầu thường bình thường, có thể tăng bạch cầu lympho (L). Bạch cầu neutrophil (N) tăng trong trường hợp
 bội nhiễm.
 ## 9. Đặc điểm lâm sàng của lao cấp tính.
-Lao cấp tính các triệu chứng lâm sàng thường nổi bật như sốt cao, gầy sút cân nhanh, da xanh tái khiến BN phải đi khám.
-Các thể lao cấp tính là lao màng phổi, lao màng bụng, lao màng não và lao hạch cấp.
+- Lao cấp tính các triệu chứng lâm sàng thường nổi bật như sốt cao, gầy sút cân nhanh, da xanh tái khiến BN phải đi khám.
+- Các thể lao cấp tính là lao màng phổi, lao màng bụng, lao màng não và lao hạch cấp.
 ## 10. Tại sao glucose trong dịch chọc dò lao giảm hơn glucose máu? Khác gì so với dịch viêm hoặc ung thư.
 Xét nghiệm glucose trong dịch chọc dò lao giảm nhiều hơn trong máu vì vi khuẩn lao sử dụng nhiều glucose.
 Trong viêm và ung thư, tế bào cần nhiều năng lượng cũng như tăng sinh nhiều hơn nên xét nghiệm glucose trong các dịch này
@@ -95,9 +95,10 @@ Chống dày dính phổi bằng thổi bóng. Chống dày dính màng bụng b
 - Phá hủy thân điít sống hình chêm gây gù vẹo cột sống.
 - Abces lạnh (không có sưng, nóng, đỏ, đau) cạnh cột sống.
 ## 28. Hình ảnh Xquang phổi nghĩ đến lao.
-- Tổn thương 2 bên đỉnh phổi (vi khuẩn lao ái khí tập trung nhiều tại đỉnh phổi).
+- Tổn thương 2 bên đỉnh phổi (vi khuẩn lao ái khí tập trung nhiều tại đỉnh phổi, tốc độ máu chậm tạo điều
+kiện vi khuẩn sinh sôi).
 - Tổn thương 2 bên (vi khuẩn lao theo đường mạch máu).
-- Tổn thương cơ bản thâm chuyển sang nốt rồi sang xơ.
+- Tổn thương cơ bản thâm nhiễm chuyển sang nốt rồi tạo hang, cuối cùng là xơ.
 - Tổn thương đa dạng. Khi đọc tổn thương trên Xquang đọc tổn thương nặng nhất.
 ## 29. Tại sao không làm kháng sinh đồ với Pyrazinamide (Z)?
 Do môi trường nuôi cấy vi khuẩn lao là môi trường kiềm. Z là dẫn xuất của acid pyrazinoic nên không làm kháng sinh đồ được.
@@ -110,8 +111,7 @@ men monoacetyl hydrazyl gây tăng độc tính.
 - Trong các thuốc điều trị lao luôn có Rifampicin (R), hấp thu theo chu kỳ gan ruột. Vì thế dùng lúc đói hấp thu tốt nhất, và cách
 bữa ăn 2-3 giờ để tránh tương tác với thức ăn. R có chu kỳ gan ruột nên tồn tại lâu trong máu với nồng độ cao thích hợp điều trị lao.
 ## 32. Tại sao thời gian điều trị của từng phác đồ điều trị lao khác nhau?
-Một số thể lao ngấm thuốc kém nên thời gian điều trị các phác đồ là khác nhau. Ví dụ lao hạch có ít mạch máu đến nuôi dưỡng nên cần
-dùng phác đồ 12 tháng.
+Một số thể lao ngấm thuốc kém nên thời gian điều trị các phác đồ là khác nhau. Ví dụ lao hạch có ít mạch máu đến nuôi dưỡng nên cần dùng phác đồ 12 tháng.
 ## 33. Phân biệt đa kháng thuốc và kháng đa thuốc trong lao.
 Kháng đa thuốc đơn giản là kháng nhiều loại thuốc. Đa kháng thuốc hàng 1 là kháng Isoniazid và Rifampicin, hàng 2 là kháng Quinolone và
 Aminoglycosid. Siêu kháng thuốc là đa kháng hàng 1 kết hợp đa kháng hàng 2.
@@ -229,11 +229,12 @@ Nang lao là phản ứng miễn dịch của hệ lympho với vi khuẩn lao.
 - Giai đoạn đầu nhiễm lao, vi khuẩn lao cần Fe2+ để phát triển, vì thế đại thực bào giữ lại Fe2+ để ngăn cản. Điều này vô tình làm
 giảm thành phần hem tạo máu gây thiếu máu hồng cầu nhỏ.
 - Giai đoạn sau khi điều trị lao bằng INH, làm thiếu vitamin B6 là thành phần của globulin tham giao tạo mãu cũng dẫn đến hồng cầu nhỏ.
-## 72. Bạch cầu mono ăn vi khuẩn lao biến thành dạng nào là chủ yếu?
-Vi khuẩn lao xâm nhập cơ thể bị đại thực bào ăn, sau đó biến đổi bạch cầu mono thành tế bào bán liên và tế bào khổng lồ Langerhan.
+## 72. Có mấy loại tế bào khổng lồ?
+Có NHIỀU loại tế bào khổng lồ trong đó có 2 loại điển hình hay gặp nhất là bạch cầu mono thành tế bào bán liên và tế bào khổng lồ Langerhan.
 Trong đó tế bào Langerhan là đặc trưng, đây cũng là tiêu chuẩn giải phẫu bệnh để khẳng định nhiễm lao.
 ## 73. Trong các thể lao, thể lao nào hay gặp nhất?
-Lao phổi chiếm (80%), lao ngoài phổi có lao màng phổi (10%) rồi đến lao hạch.
+Lao phổi chiếm (80%), lao ngoài phổi có lao màng phổi (10%) rồi đến lao hạch, tiếp sau đó là lao xương khớp,
+lao màng não, lao thanh quản và lao màng bụng.
 ## 74. Vị trí hay gặp nhất của hạch lao ở đâu?
 Hay gặp ở cổ (70%) hay dọc cơ ức đòn chũm, dưới đòn. Do đường bạch huyết đổ vào ống ngực rồi đổ vào vùng cổ với tốc độ chậm tạo điều
 kiện vi khuẩn lao phát triển tại đây.
@@ -283,27 +284,31 @@ Do lấy mẫu sai hoặc do đã sử dụng kháng sinh trước đó.
 tác dụng phụ của thuốc?
 - Tiên lượng xa dựa vào: Tiên lượng gần trước đó. Có hay không bệnh lý kèm theo? Các yếu tố xấu kèm theo. Điều kiện kinh
 tế, ý thức điều trị, trình độ hiểu biết, thói quen có hại.
-## 90. Kỹ thuật thở bóng phục hồi hô hấp như thế nào?
-- Nằm ngửa đầu gối gập 45°, khớp háng xoay ngoài:
-	+ Kỹ thuật viên đặt một hoặc hai tay lên góc sườn hoành theo nhịp thở của người
-	bệnh. Khi người bệnh thở ra tay kỹ thuật viên ép nhẹ vào ngực. Khi người bệnh
-	thở vào lồng ngực kháng lại tay kỹ thuật viên để nâng lên, tiếp sau bụng sẽ nâng
-	lên theo, tập như vậy nhiều lần một cách nhịp nhàng. Người bệnh hít vào bằng
-	mũi, thở ra bằng mồm.
-	+ Để người bệnh tự đặt tay vào góc sườn hoành, tự ép nhẹ khi thở ra, khi người
-	bệnh hít vào lồng ngực tự đẩy ra. Kỹ thuật viên theo dõi, đánh giá kết quả.
-- Tư thế ngồi người bệnh thư giãn, ngồi thăng bằng, tay đặt lên góc sườn hoành,
-tiếp tục tập thở.
-- Tư thế đứng tập thở trước gương soi để người bệnh tự kiểm tra việc thở của
-mình.
-- Tập thở phân thùy hoặc cạnh sườn: tập trung vào vùng tổn thương. Tùy theo vị trí
-vùng tổn thương mà kỹ thuật viên đặt tay lên thành ngực tương ứng: cạnh sườn
-một hoặc hai bên, phía trước hạ sườn…
-	+ Ở cuối thì thở ra tay kỹ thuật viên ấn đẩy lồng ngực, lồng ngực người bệnh
-	kháng lại tay kỹ thuật viên ở thì hít vào. 177
-	+ Yêu cầu người bệnh hít sâu vào và nín thở trong một thời gian, sau đó thở ra
-	chậm, đều.
-- Kỹ thuật viên đánh giá áp lực khi ấn đẩy lồng ngực, điều chỉnh kỹ thuật cho phù
-hợp để việc tập thở có hiệu quả cao nhất.
-- Tập thở bằng dụng cụ (bóng bay, ống thổi có khắc số, ống dẫn trong cốc nước, tờ
-giấy mỏng, thở vào gương, v.v) kỹ thuật này chủ yếu áp dụng với trẻ em.
+## 90. Kỹ thuật tập thở chống dày dính màng phổi.
+- Bước 1: Đặt tay phải lên ngực, tay trái đặt trên bụng ngay dưới bờ sườn để giúp cảm nhận được sự di chuyển của cơ
+hoành khi hít thở.
+- Bước 2: Hít vào chậm qua mũi sao cho bàn tay trên bụng có cảm giác bụng phình lên, lồng ngực không di chuyển.
+- Bước 3: Hóp bụng lại và thở ra chậm qua miệng bằng kỹ thuật thở mím môi với thời gian thở ra gấp đôi thời gian hít vào và
+bàn tay trên bụng có cảm giác bụng lõm xuống.
+## 91. Khi tiến hành chọc hạch cần lưu ý gì?
+- Nên chọc hạch lúc hạch còn rắn vì khi đó hạch vẫn giữ được cấu trúc. Còn khi hạch đã nhuyễn hóa sẽ bị phá hủy các cấu trúc,
+khó tìm thấy nang lao.
+- Chọc nhiều hạch và nhiều vị trí (tăng khả năng tìm thấy các thành phần của nang lao).
+## 92. Hạch do lao khác hạch do căn nguyên khác ở điểm gì?
+- Hạch thường xuất hiện ở vị trí cơ ức đòm chũm 2 bên.
+- Hạch thường có đa lứa tuổi, kích thước không đều.
+## 93. So sánh hạch trong viêm mạn tính và hạch lao ở điểm gì?
+- Giống nhau: Khi giải phẫu bệnh đều có sự xuất hiện của tế bào lympho.
+- Khác nhau: Hạch trong lao sinh kháng thể, có sự xuất hiện của nang lao điển hình.
+## 94. Làm như nào để loại bỏ hạch lao? Sau khi loại bỏ còn cần điều trị lao không?
+- Cách duy nhất loại bỏ (làm hết hạch) là bóc tách.
+- Khi bóc tách vẫn phải điều trị lao vì vi khuẩn lao vẫn có thể tồn tại ở trong cơ thể.
+## 95. Phân biệt việc chích rạch và bóc tách hạch trong lao.
+- Chích rạch là rạch da, nạo bỏ tổ chức bã đậu trong hạch mà phần xơ vẫn còn nguyên, sau đó khâu lại.
+Bóc tách là phẫu thuật cắt toàn bộ hạch đó ra khỏi cơ thể khi mà hạch còn chưa nhuyễn hóa, sau đó để hở vị
+trí bóc tách.
+- Vì để hở nên bóc tách sẽ chảy nhiều dịch thấm băng hơn chích rạch. Về lâu dài hạch bóc tách nguy cơ nhiễm
+trùng cao hơn so với chích rạch.
+## 96. BN nữ đang điều trị lao, xin ra viện về nhà chăm con sau 4 ngày điều trị. Xử trí như thế nào?
+BN có quyền được xin về nhưng nên khuyên BN ở lại để điều trị và chăm sóc thêm. Nhưng nếu BN kiên quyết ra viện thì phải
+hướng dẫn BN sử dụng thuốc, chăm sóc vết thương (mua cồn Bethadin làm sạch về thương, bỏ bông cồn vào túi đem đốt).
