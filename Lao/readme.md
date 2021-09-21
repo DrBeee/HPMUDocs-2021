@@ -374,8 +374,8 @@ chứng hô hấp ho khạc đờm kéo dài, BN được nội soi phế quản
 ### 107. Một số thuốc sử dụng trên lâm sàng.
 |Thuốc\Cân nặng|<40|40-55|55-60|>70|
 |-------------|---|-----|-----|---|
-|PHZ|2|3|4|5|
-|E|1|2|3|4|
+|PHZ (viên)|2|3|4|5|
+|E (viên)|1|2|3|4|
 - INH liều tối đa là 300mg
 - S liều tối đa là 1g
 - PZA liều tối đa là 2000mg
