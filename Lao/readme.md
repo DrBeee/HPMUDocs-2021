@@ -332,7 +332,7 @@ hướng dẫn BN sử dụng thuốc, chăm sóc vết thương (mua cồn Beth
 - Tràn dịch màng phổi
 - Xơ phổi
 - Xẹp phổi
-*Lưu ý: Các nguyên nhân này cần phân biệt với nhau. Dày dính và tràn dịch phân biệt trên siêu âm. Tràn dịch lồng ngực phồng. Xơ phổi có 3 giảm và là đám mờ trên Xquang, có co kéo các thành phần khác. Xẹp phổi lồng ngực lép, trên Xquang có co kéo.*
+</br>*Các nguyên nhân này cần phân biệt với nhau. Dày dính và tràn dịch phân biệt trên siêu âm. Tràn dịch lồng ngực phồng. Xơ phổi có 3 giảm và là đám mờ trên Xquang, có co kéo các thành phần khác. Xẹp phổi lồng ngực lép, trên Xquang có co kéo.*
 ### 99. Xét nghiệm gen Xpert làm với các loại bệnh phẩm nào? Dịch màng phổi làm được gen Xpert không?
 - XN gen Xpert làm với bệnh phẩm đờm và dịch não tủy.
 - Dịch màng phổi không làm gen Xpert mà làm PCR.
@@ -348,7 +348,7 @@ hướng dẫn BN sử dụng thuốc, chăm sóc vết thương (mua cồn Beth
 	- Không bị trĩ
 	- Không sứt môi hở hàm ếch
 	- Có hang lao
-*BN được chỉ định thổi bóng khi có dày dính màng phổi và không có chống chỉ định (biện luận trên lâm sàng)*
+</br>*BN được chỉ định thổi bóng khi có dày dính màng phổi và không có chống chỉ định (biện luận trên lâm sàng)*
 ### 103. Làm thế nào để xác định màng phổi có dày dính?
 - Dày có thể phát hiện trên Xquang và siêu âm.
 - Dính màng phổi chỉ có thể phát hiện trên siêu âm với đặc điểm tạo nhiều hang trong khoang màng phổi.
@@ -372,11 +372,11 @@ hướng dẫn BN sử dụng thuốc, chăm sóc vết thương (mua cồn Beth
 chứng hô hấp ho khạc đờm kéo dài, BN được nội soi phế quản _____; soi đờm trực tiếp _____; gen Xpert có _____; chụp Xquang có _____; v.v. Vậy chẩn đoán là _____.
 - BN chưa có tiêu chuẩn vàng: BN chưa được điều trị lao bao giờ cho đến lúc vào viện chưa có tiêu chuẩn vàng nhưng có nhiều yếu tố định hướng chẩn đoán như hội chứng nhiễm trùng, nhiễm đọc mạn tính, triệu chứng hô hấp ho khạc đờm kéo dài, BN được nội soi phế quản _____; soi đờm trực tiếp _____; gen Xpert có _____; chụp Xquang có _____; v.v. Vậy chẩn đoán là _____.
 ### 107. Một số thuốc sử dụng trên lâm sàng.
-Thuốc\Cân nặng|<40|40-55|55-60|>70
-----------------------------------
-PHZ|2|3|4|5
-E|1|2|3|4
+|Thuốc\Cân nặng|<40|40-55|55-60|>70|
+|-------------|---|-----|-----|---|
+|PHZ|2|3|4|5|
+|E|1|2|3|4|
 - INH liều tối đa là 300mg
 - S liều tối đa là 1g
 - PZA liều tối đa là 2000mg
-*Lưu ý thi lâm sàng lao hỏi nhiều về việc tiếp cận BN với các triệu chứng, hội chứng cụ thể cần bổ sung thêm vào tài liệu này.*
+### *Lưu ý thi lâm sàng lao hỏi nhiều về việc tiếp cận BN với các triệu chứng, hội chứng cụ thể cần bổ sung thêm vào tài liệu này.*
