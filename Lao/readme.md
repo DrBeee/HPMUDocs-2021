@@ -29,7 +29,7 @@ và bạch huyết đến.
 Dựa vào khả năng gây bệnh người ta chia làm 4 loại: Mycobasterium tuberculosis hominis (người), M.bovis (bò),
 M.valium (chim), M.microti (chuột). M.atipiques ít khi gây bệnh nhưng khi gây bệnh thì kháng hầu hết các thuốc.
 ### 6. Thời gian tiến triển của các bệnh dẫn đến xơ phổi?
-Thường sau viêm, hoại tử kéo daifm v.v sau 6 tháng sẽ dẫn đến xơ phổi.
+Thường sau viêm, hoại tử kéo dài v.v sau 6 tháng sẽ dẫn đến xơ phổi.
 ### 7. Tiêu chuẩn vàng chẩn đoán lao.
 Có 2 tiêu chuẩn vàng chẩn đoán lao là tìm được vi khuẩn lao trong bệnh phẩm và giải phẫu bệnh thấy nang lao đặc trung.
 Ngoài ra có thể tham khảo tiêu chuẩn trong điều trị, nếu dùng thuốc điều trị lao (thường là 1 tháng) cải thiện cũng có thể
