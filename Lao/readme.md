@@ -53,7 +53,7 @@ phế nang.
 ### 12. Tại sao trong lao màng phổi đau ngực giảm dần?
 Lúc đầu đau do 2 lá phổi cọ sát vào nhau. Sau đó 2 lá này tách ra khi có nhiều dịch làm giảm đau.
 ### 13. HIV có lao phổi là giai đoạn mấy? Lao ngoài phổi giai đoạn mấy?
-HIV có lao phổi là giai đoạn 2.
+HIV có lao phổi là giai đoạn 3 và lao ngoài phổi là giai đoạn 4.
 ### 14. Tại sao không dùng Streptomycin điều trị lao cho BN HIV?
 Streptomycin điều trị cần tiêm bắp nên có nguy cơ lây nhiễm HIV cho nhân viên y tế.
 ### 15. Tại sao điều trị lao BN HIV gặp nhiều khó khăn?
@@ -251,7 +251,7 @@ Làm khi hạch còn rắn vì vẫn giữ đượcc các cấu trúc.
 - Với lao màng não: Hàng rào máu não ngăn cản thuốc đi qua nên cũng cần thời gian điều trị dài.
 - Ngoài ra các tổ chức xơ ngăn cản mạch máu vận chuyển thuốc cũng là một nguyên nhân cần điều trị phác đồ 12 tháng.
 ### 78. Tại sao trong lao phổi không dùng corticoid?
-Do để tránh hang lao xơ hóa gây vỡ hang lao tràn khí.
+Lao phổi có hang không dùng corticoid để tránh hang lao xơ hóa gây vỡ hang lao.
 ### 79. Lao hạch ngoại vi có lây không?
 Có nếu tiếp xúc dịch tiết từ hạch.
 ### 80. Tiên lượng BN nhiễm lao hạch.
@@ -361,7 +361,7 @@ hướng dẫn BN sử dụng thuốc, chăm sóc vết thương (mua cồn Beth
 	- Chảy máu
 	- Tràn khí
 	- Nhiễm trùng
-	- Ho ra máu (do hút dịch quá nhanh)
+	- Ho ra máu (do hút dịch quá nhanh làm hang lao giãn to ra nhanh gây vỡ mạch máu trong hang lao)
 - Khi BN thấy khó thở cần xử trí lần lượt như sau:
 	- Xác định xem khó thở thực thể hay cảm giác.
 	- Nếu khó thở thực thể cần xác định nguyên nhân khó thở do tràn khí hay chảy máu?
@@ -379,4 +379,36 @@ chứng hô hấp ho khạc đờm kéo dài, BN được nội soi phế quản
 - INH liều tối đa là 300mg
 - S liều tối đa là 1g
 - PZA liều tối đa là 2000mg
+### 108. Tiêm BCG sau bao lâu thì sinh kháng thể đầy đủ?
+2-3 tháng
+### 109. Thế nào là nguồn nhiễm lao nội sinh, ngoại sinh? Nguồn nội sinh gây bệnh tồn tại bao lâu trong cơ thể?
+- Nguồn nội sinh là cơ thể nhiễm lao, sinh phản ứng khu trú vi khuẩn lao nhưng chưa tiêu diệt hoàn toàn mà vẫn tồn tại trong cơ thể.
+Nguồn ngoại sinh là vi khuẩn lao từ ngoài vào cơ thể gây bệnh.
+- Nguồn nội sinh có thể tồn tại 5 năm trong cơ thể.
+### 110. Những thể lao chắc chắn dùng corticoid
+Có 3 thể lao chắc chắn dùng corticoid là lao màng não, lao kê và lao màng ngoài tim.
+### 111. Phân biệt lao sơ nhiễm và lao phổi.
+Lao sơ nhiễm không có tổn thương phổi trên Xquang (chỉ có phức bộ sơ nhiễm hạch). Lao phổi có tổn thương phổi.
+### 112. Z có dùng trong giai đoạn duy trì không?
+Z thường không dùng trong giai đoạn duy trì, nếu có cần xác định liều cụ thể.
+### 113. Chẩn đoán lao kháng thuốc. Hướng xử trí.
+- Lao kháng thuốc khi làm với các XN sau:
+	- Xpert nếu chẩn đoán lần đầu cần 2 lần XN kháng thuốc, nếu chẩn đoán kháng thuốc lại cần 1 lần XN.
+	- Hein test.
+	- Cấy MGIT-BACTEC.
+- Khi được chẩn đoán lao kháng thuốc cần chuyển cho chuyên khoa điều trị lao kháng thuốc. Thường loại bỏ thuốc bị kháng và chuyển phác
+đồ cao hơn.
+### 114. Phân biệt triệu chứng thần kinh do nghiện rượu với sau dùng INH?
+- Phân biệt chủ yếu dựa vào việc có dùng rượu hoặc thuốc không. Nghiện rượu triệu chứng thần kinh xuất hiện sau khi sử dụng rượu, có
+hội chứng cai. Tương tự, triệu chứng INH xuất hiện sau khi dùng thuốc.
+### 115. BN xơ gan mà men gan bình thường có dùng thuốc điều trị lao được không? Nếu men gan tăng thì sao?
+- Nếu men gan bình thường sẽ vẫn điều trị thuốc lao như bình thường.
+- Nếu men gan tăng thì điều chỉnh men gan về bình thường rồi điều trị thuốc lao. Sau đó nếu men gan tiếp tục tăng nhẹ thì bổ xung thêm
+thuốc bổ gan. Nếu men gan tăng 3 lần, dừng thuốc và điều chỉnh men gan về bình thường sau đó mới tiếp tục điều trị lao. Trường hợp
+men gan sau đó lại tăng thì ta đổi thuốc.
+- BN xơ gan điều trị lao cần lưu ý: Loại bỏ thuốc gây độc, bảo vệ gan (thuốc bổ gan), tình trạng bệnh lý kèm theo (virus viêm gan),
+hỗ trợ làm việc (vitamin), giảm lao động cho gan (ăn uống dễ tiêu), chống xơ (corticoid).
+### 116. Thay thế thuốc điều trị lao.
+Một lưu ý nhỏ khi thay thế các thuốc SRHZE thì Z độc nhất cho gan khi đứng 1 mình, nếu kết hợp thì RH độc hơn Z. Vì thế khi thay thế thuốc
+người ta thay thế H đầu rồi đến Z và cuối cùng là R. Thay thế có thể dùng thuốc điều trị lao hàng 2 là quinolon và levofloxacine.
 ### *Lưu ý thi lâm sàng lao hỏi nhiều về việc tiếp cận BN với các triệu chứng, hội chứng cụ thể cần bổ sung thêm vào tài liệu này.*
