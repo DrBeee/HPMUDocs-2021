@@ -6,44 +6,32 @@
 
 ### 1. Phân tích biểu hiện toàn thân sốt nhẹ về chiều, mệt mỏi, gầy sút cân, kém ăn và da xanh tái ở BN lao?
 Đây là các biểu hiện của hội chứng nhiễm trùng nhiễm độc mạn tính:
-- Sốt nhẹ về chiều: Chu kì sinh sản của vi khuẩn lao là từ 20-24h lâu hơn so với vi khuẩn thông thường (chỉ khoảng 6 tiếng)
-nên người bị nhiễm lao thường sốt nhẹ (khoảng 37.5-38 oC) do đáp ứng viêm không rầm rộ. Hơn nữa theo chu kì sinh lý bình thường
-của con người, cortisol đặt đỉnh vào 8h sáng nên nhiệt độ cơ thể sáng (36-36.5 oC) thấp hơn chiều (36.5-37 oC) vì thế cho dù cơ
-thể sốt (trong lao tăng khoảng 0.5 oC) vào buổi sáng nhiệt độ cơ thể vẫn không quá 37 oC, chỉ đến buổi chiều khi nhiệt độ >37.5
-oC cơ thể mới cảm nhận được sốt.
+- Sốt nhẹ về chiều: Chu kì sinh sản của vi khuẩn lao là từ 20-24h lâu hơn so với vi khuẩn thông thường (chỉ khoảng 6 tiếng) nên người bị nhiễm lao thường sốt nhẹ (khoảng 37.5-38 oC) do đáp ứng viêm không rầm rộ. Hơn nữa theo chu kì sinh lý bình thường của con người, cortisol đặt đỉnh vào 8h sáng nên nhiệt độ cơ thể sáng (36-36.5 oC) thấp hơn chiều (36.5-37 oC) vì thế cho dù cơ thể sốt (trong lao tăng khoảng 0.5 oC) vào buổi sáng nhiệt độ cơ thể vẫn không quá 37 oC, chỉ đến buổi chiều khi nhiệt độ >37.5 oC cơ thể mới cảm nhận được sốt.
 - Mệt mỏi: Sốt cơ thể tăng chuyển hóa (dị hóa) làm tiêu tốn năng lượng dẫn tới mệt mỏi.
 - Chán ăn: Do sốt mất nước và điện giải làm giảm tiết dịch trong đó có dịch tiêu hóa làm ăn kém ngon miệng.
 - Gầy sút cân: Do chán ăn kèm tăng dị hóa như đã nói ở trên.
 - Da xanh: Đây là biểu hiện của hội chứng nhiễm trùng nhiễm độc mạn tính.
 ### 2. Lao màng phổi gọi là tràn dịch màng phổi huyết thanh tơ vì sao?
-Khi chọc dịch màng phổi có màu vàng chanh chứa hồng cầu, fibrin nên được gọi tràn dịch màng phổi
-thanh tơ huyết. Dịch màng phổi đục do ổ loét bã đậu vỡ.
+Khi chọc dịch màng phổi có màu vàng chanh chứa hồng cầu, fibrin nên được gọi tràn dịch màng phổi thanh tơ huyết. Dịch màng phổi đục do ổ loét bã đậu vỡ.
 ### 3. Sinh thiết làm giải phẫu bệnh tổ chức nghi ngờ hang lao ở vị trí nào? So sánh với sinh thiết khối u trong ung thư?
-Sinh thiết tổ chức nghi ngờ hang lao ở phần vỏ của tổ chức mà không sinh thiết phần trung tâm do trung tâm
-chủ yếu là chất hoại tử. Trong khi đó nếu ung thư hoại tử từ ngoài vào trong do thiếu nuôi dưỡng nên sinh thiết
-phần trung tâm.
+Sinh thiết tổ chức nghi ngờ hang lao ở phần vỏ của tổ chức mà không sinh thiết phần trung tâm do trung tâm chủ yếu là chất hoại tử. Trong khi đó nếu ung thư hoại tử từ ngoài vào trong do thiếu nuôi dưỡng nên sinh thiết phần trung tâm.
 ### 4. Trong lao màng phổi, lá thành hay lá tạng tổn thương nhiều hơn?
-Lá thành tổn thương trong lao nhiều hơn do nhiều bạch huyết, mạch máu nuôi dưỡng nên vi khuẩn lao theo đường máu
-và bạch huyết đến.
+Lá thành tổn thương trong lao nhiều hơn do nhiều bạch huyết, mạch máu nuôi dưỡng nên vi khuẩn lao theo đường máu và bạch huyết đến.
 ### 5. Đặc điểm gây bệnh của các loại vi khuẩn lao?
-Dựa vào khả năng gây bệnh người ta chia làm 4 loại: Mycobasterium tuberculosis hominis (người), M.bovis (bò),
-M.valium (chim), M.microti (chuột). M.atipiques ít khi gây bệnh nhưng khi gây bệnh thì kháng hầu hết các thuốc.
+Dựa vào khả năng gây bệnh người ta chia làm 4 loại: Mycobasterium tuberculosis hominis (người), M.bovis (bò), M.valium (chim), M.microti (chuột). M.atipiques ít khi gây bệnh nhưng khi gây bệnh thì kháng hầu hết các thuốc.
 ### 6. Thời gian tiến triển của các bệnh dẫn đến xơ phổi?
 Thường sau viêm, hoại tử kéo dài v.v sau 6 tháng sẽ dẫn đến xơ phổi.
 ### 7. Tiêu chuẩn vàng chẩn đoán lao.
 Có 2 tiêu chuẩn vàng chẩn đoán lao là tìm được vi khuẩn lao trong bệnh phẩm và giải phẫu bệnh thấy nang lao đặc trung.
-Ngoài ra có thể tham khảo tiêu chuẩn trong điều trị, nếu dùng thuốc điều trị lao (thường là 1 tháng) cải thiện cũng có thể
-coi là tiêu chuẩn nhưng theo kinh nghiệm lâm sàng.
+Ngoài ra có thể tham khảo tiêu chuẩn trong điều trị, nếu dùng thuốc điều trị lao (thường là 1 tháng) cải thiện cũng có thể coi là tiêu chuẩn nhưng theo kinh nghiệm lâm sàng.
 ### 8. Công thức bạch cầu trong máu bệnh nhân lao như thế nào?
-Công thức bạch cầu thường bình thường, có thể tăng bạch cầu lympho (L). Bạch cầu neutrophil (N) tăng trong trường hợp
-bội nhiễm.
+Công thức bạch cầu thường bình thường, có thể tăng bạch cầu lympho (L). Bạch cầu neutrophil (N) tăng trong trường hợp bội nhiễm.
 ### 9. Đặc điểm lâm sàng của lao cấp tính.
 - Lao cấp tính các triệu chứng lâm sàng thường nổi bật như sốt cao, gầy sút cân nhanh, da xanh tái khiến BN phải đi khám.
 - Các thể lao cấp tính là lao màng phổi, lao màng bụng, lao màng não và lao hạch cấp.
 ### 10. Tại sao glucose trong dịch chọc dò lao giảm hơn glucose máu? Khác gì so với dịch viêm hoặc ung thư.
 Xét nghiệm glucose trong dịch chọc dò lao giảm nhiều hơn trong máu vì vi khuẩn lao sử dụng nhiều glucose.
-Trong viêm và ung thư, tế bào cần nhiều năng lượng cũng như tăng sinh nhiều hơn nên xét nghiệm glucose trong các dịch này
-thường có glucose cao hơn trong máu.
+Trong viêm và ung thư, tế bào cần nhiều năng lượng cũng như tăng sinh nhiều hơn nên xét nghiệm glucose trong các dịch này thường có glucose cao hơn trong máu.
 ### 11. Cơ chế ho máu, tràn dịch, tràn khí trong lao phổi.
 - Có 3 cơ chế gây ho máu:
 	- Cơ học do ho nhiều gây vỡ mạch máu nhất là mạch máu ở vị trí phổi dễ tổn thương.
@@ -59,8 +47,7 @@ Streptomycin điều trị cần tiêm bắp nên có nguy cơ lây nhiễm HIV 
 ### 15. Tại sao điều trị lao BN HIV gặp nhiều khó khăn?
 Do thuốc điều trị lao có nhiều tác dụng phụ, đặc biệt gây hại cho gan và thận.
 ### 16. Phân biệt say rượu và rối loạn tiền đình đối với BN lao?
-Dựa vào dáng đi để phân biệt. Người say rượu thường đi loạng choạng cả 2 chân, ngã trên đường dốc, gồ ghề. BN lao có rối loạn
-tiền đình thì thường đi nghiêng về 1 bên nên dễ ngã.
+Dựa vào dáng đi để phân biệt. Người say rượu thường đi loạng choạng cả 2 chân, ngã trên đường dốc, gồ ghề. BN lao có rối loạn tiền đình thì thường đi nghiêng về 1 bên nên dễ ngã.
 ### 17. Đuôi khái huyết là gì?
 Đuôi khái huyết là dấu hiệu đã ngừng chẩy máu, thường gặp trong lao phổi, máu khạc ra ít dần, đỏ thẫm rồi đen lại.
 ### 18. Khi nào được gọi dịch xét nghiệm tăng tế bào lympho? Tăng tế bào neutrophil?
@@ -68,9 +55,7 @@ Khi lượng tế bào lympho trong dịch tăng trên 75%, neutrophil tăng tr�
 ### 19. Màu sắc trong, đục của dịch màng nào biểu hiện gì?
 Dịch não tủy thường trong, dịch hồng do có chứa hồng cầu, dịch đục do bội nhiễm vi khuẩn hoặc hoại tử bã đậu vỡ.
 ### 20. Tại sao dùng Mantoux ở trẻ em mà không dùng Quantiferon?
-Cả 2 xét nghiệm này đều dựa trên phản ứng miễn dịch nhưng có nhiều điểm khác. Quantiferon nhạy hơn Mantoux nên hay được
-dùng với người lớn. Nhưng Mantoux đánh giá được chuyển phản ứng còn Quantiferon chỉ đánh giá kết quả dương tính hay không, vì
-thế mà không đánh giá đối với trẻ em được vì có thể dương tính sau tiêm BCG. Cần có chuyển phản ứng để đánh giá đối với trẻ em.
+Cả 2 xét nghiệm này đều dựa trên phản ứng miễn dịch nhưng có nhiều điểm khác. Quantiferon nhạy hơn Mantoux nên hay được dùng với người lớn. Nhưng Mantoux đánh giá được chuyển phản ứng còn Quantiferon chỉ đánh giá kết quả dương tính hay không, vì thế mà không đánh giá đối với trẻ em được vì có thể dương tính sau tiêm BCG. Cần có chuyển phản ứng để đánh giá đối với trẻ em.
 ### 21. CT, đo chức năng thông khí trong lao màng phổi khi nào?
 Chụp CT và đo chức năng thông khí khi hết dịch màng phổi để đánh giá di chứng sau nhiễm lao màng phổi.
 ### 22. Nguyên tắc chọc dịch, ví trí và áp lực chọc dịch màng phổi?
@@ -104,15 +89,12 @@ kiện vi khuẩn sinh sôi).
 - Tổn thương cơ bản thâm nhiễm chuyển sang nốt rồi tạo hang, cuối cùng là xơ.
 - Tổn thương đa dạng. Khi đọc tổn thương trên Xquang đọc tổn thương nặng nhất.
 ### 29. Tại sao không làm kháng sinh đồ với Pyrazinamide (Z)?
-Do môi trường nuôi cấy vi khuẩn lao là môi trường kiềm. Z là dẫn xuất của acid pyrazinoic nên không làm kháng sinh đồ được.
-Để kiểm tra tính kháng thuốc cần môi trường đặc biệt.
+Do môi trường nuôi cấy vi khuẩn lao là môi trường kiềm. Z là dẫn xuất của acid pyrazinoic nên không làm kháng sinh đồ được. Để kiểm tra tính kháng thuốc cần môi trường đặc biệt.
 ### 30. Tại sao phối hợp R và H gây tăng viêm gan? H gây viêm dây thần kinh? Z gây giả gout (khác gout thật)?
-Do H là hydrazid hấp thu tại ruột, chuyển hóa tại gan tạo acetyl hydrazin gây phá hủy tế bào gan trong khi đó R làm tăng cảm ứng
-men monoacetyl hydrazyl gây tăng độc tính.
-### 31. Tại sao phải phối hợp nhiều thuốc điều trị lao? Tại sao dùng thuốc trị lao lúc đói, cách bữa ăn 2-3 giờ?
+Do H là hydrazid hấp thu tại ruột, chuyển hóa tại gan tạo acetyl hydrazin gây phá hủy tế bào gan trong khi đó R làm tăng cảm ứng men monoacetyl hydrazyl gây tăng độc tính.
+### 31. Tại sao phải phối hợp nhiều thuốc điều trị lao? Tại sao dùng thuốc trị lao dùng giờ cố định, lúc đói, cách bữa ăn 2-3 giờ?
 - Phải phối hợp nhiều thuốc điều trị lao do tính kháng thuốc của vi khuẩn lao.
-- Trong các thuốc điều trị lao luôn có Rifampicin (R), hấp thu theo chu kỳ gan ruột. Vì thế dùng lúc đói hấp thu tốt nhất, và cách
-bữa ăn 2-3 giờ để tránh tương tác với thức ăn. R có chu kỳ gan ruột nên tồn tại lâu trong máu với nồng độ cao thích hợp điều trị lao.
+- Trong các thuốc điều trị lao luôn có Rifampicin (R), hấp thu theo chu kỳ gan ruột. Vì thế dùng lúc đói hấp thu tốt nhất, và cách bữa ăn 2-3 giờ để tránh tương tác với thức ăn. R có chu kỳ gan ruột nên tồn tại lâu trong máu với nồng độ cao thích hợp điều trị lao. Ngoài ra chu kỳ sinh sản của vi khuẩn lao là 24h nên cần duy trì nồng độ thuốc trong máu.
 ### 32. Tại sao thời gian điều trị của từng phác đồ điều trị lao khác nhau?
 Một số thể lao ngấm thuốc kém nên thời gian điều trị các phác đồ là khác nhau. Ví dụ lao hạch có ít mạch máu đến nuôi dưỡng nên cần dùng phác đồ 12 tháng.
 ### 33. Phân biệt đa kháng thuốc và kháng đa thuốc trong lao.
@@ -131,9 +113,7 @@ có bạch cầu thường nghĩ nhiều đến lao tiết niệu.
 - Sinh thiết ở mào tinh hoàn với nam giới.
 - Sinh thiết ở thân (niêm mạc) tử cung với nữ giới do hay bắt gặp hang lao và không ảnh hưởng tới sức khỏe BN.
 ### 38. Khi nào nghe được tiếng cọ màng phổi trong lao màng phổi?
-Tiếng cọ xuất hiện khi 2 lá màng phổi cọ sát vào nhau. Khi có dịch màng phổi tiếng cọ mất đi. Khi lượng dịch
-hết thì thường không nghe thấy tiếng cọ do có fibrin còn lại sau khi hết dịch làm dính màng phổi không xuất hiện
-tiếng cọ. Tuy nhiêu nhiều trường hợp, khi hết dịch như sau khi chọc hút vẫn có thể nghe thấy tiếng cọ.
+Tiếng cọ xuất hiện khi 2 lá màng phổi cọ sát vào nhau. Khi có dịch màng phổi tiếng cọ mất đi. Khi lượng dịch hết thì thường không nghe thấy tiếng cọ do có fibrin còn lại sau khi hết dịch làm dính màng phổi không xuất hiện tiếng cọ. Tuy nhiêu nhiều trường hợp, khi hết dịch như sau khi chọc hút vẫn có thể nghe thấy tiếng cọ.
 ### 39. Lao kê tổn thương tại đâu?
 Tổn thương tại mô liên kết (phế nang và mao mạch phổi). Vì thế mà vi khuẩn lao thường tồn tại trong máu (đường lây) mà ít tồn tại trong đờm, dịch mũi họng, v.v đồng nghĩa XN đờm, dịch mũi họng khó tìm được vi khuẩn lao.
 ### 40. Mức độ các triệu chứng hay gặp trong lao kê.
@@ -181,17 +161,14 @@ BN dễ bỏ trị.
 ### 54. Tại sao bỏ trị lại tiên lượng xấu?
 Dễ sinh ra kháng thuốc.
 ### 55. Tại sao cần phân biệt triệu chứng thần kinh do nghiện rượu và dùng thuốc trị lao INH? Biểu hiện như nào?
-Do nghiện rượu gây ra nhiều rối loạn tinh thần, tri giác, cảm giác. Thuốc trị lao INH cũng làm mất vitamin B6 là một chất quan trong
-trong hình thành dẫn truyền thần kinh vì thế mà cũng có các triệu chứng rối loạn thần kinh.
+Do nghiện rượu gây ra nhiều rối loạn tinh thần, tri giác, cảm giác. Thuốc trị lao INH cũng làm mất vitamin B6 là một chất quan trong hình thành dẫn truyền thần kinh vì thế mà cũng có các triệu chứng rối loạn thần kinh.
 ### 56. Điều trị lao trên BN nghiện rượu cần lưu ý điều gì?
 Cần lưu ý theo chức năng gan của BN do nguy cơ từ rượu, kèm theo đó là ảnh hưởng của các thuốc điều trị lao. Vì thế cần thêm thuốc bổ
 gan cho BN lao trên nền nghiện rượu (lao/nghiện rượu).
 ### 57. Tại sao đái tháo đường (ĐTĐ), HIV, suy dinh dưỡng tăng nguy cơ bị lao?
 Do miễn dịch suy giảm trong các bệnh trên.
 ### 58. Đặc điểm tổn thương trong lao phổi ở BN ĐTĐ. Triệu chứng lâm sàng nào hay gặp nhất?
-- Vi khuẩn lao ái khí và cần đường để phát triển. Tổn thương hang lao thường tập trung ở đáy phổi do đường máu tăng cao mà đáy phổi
-nhiều mạch máu nên tạo điều kiện cho vi khuẩn lao phát triển. Khác do với BN lao thông thường tổn thương thường ở đỉnh phổi. Lao phổi
-ở BN đái tháo đường dễ nhầm với các bệnh phổi khác.
+- Vi khuẩn lao ái khí và cần đường để phát triển. Tổn thương hang lao thường tập trung ở đáy phổi do đường máu tăng cao mà đáy phổi nhiều mạch máu nên tạo điều kiện cho vi khuẩn lao phát triển. Khác do với BN lao thông thường tổn thương thường ở đỉnh phổi. Lao phổi ở BN đái tháo đường dễ nhầm với các bệnh phổi khác.
 - Triệu chứng lâm sàng hay gặp nhất là ho khạc đờm kéo dài. Sốt và gầy sút cân thường không điển hình.
 ### 59. Điều trị lao cho BN đái tháo đường cần lưu ý gì?
 - Phối hợp thuốc điều trị lao và kiểm soát đường huyết đồng thời.
@@ -238,8 +215,7 @@ giảm thành phần hem tạo máu gây thiếu máu hồng cầu nhỏ.
 Có NHIỀU loại tế bào khổng lồ trong đó có 2 loại điển hình hay gặp nhất là bạch cầu mono thành tế bào bán liên và tế bào khổng lồ Langerhan.
 Trong đó tế bào Langerhan là đặc trưng, đây cũng là tiêu chuẩn giải phẫu bệnh để khẳng định nhiễm lao.
 ### 73. Trong các thể lao, thể lao nào hay gặp nhất?
-Lao phổi chiếm (80%), lao ngoài phổi có lao màng phổi (10%) rồi đến lao hạch, tiếp sau đó là lao xương khớp,
-lao màng não, lao thanh quản và lao màng bụng.
+Lao phổi chiếm (80%), lao ngoài phổi có lao màng phổi (10%) rồi đến lao hạch, tiếp sau đó là lao xương khớp, lao màng não, lao thanh quản và lao màng bụng.
 ### 74. Vị trí hay gặp nhất của hạch lao ở đâu?
 Hay gặp ở cổ (70%) hay dọc cơ ức đòn chũm, dưới đòn. Do đường bạch huyết đổ vào ống ngực rồi đổ vào vùng cổ với tốc độ chậm tạo điều
 kiện vi khuẩn lao phát triển tại đây.
@@ -281,7 +257,7 @@ Lao _____ có xác nhận vi khuẩn học thể _____. *Ví dụ, lao phổi c�
 ### 87. Vì sao nhiều BN lao cấy không mọc vi khuẩn?
 Do lấy mẫu sai hoặc do đã sử dụng kháng sinh trước đó.
 ### 88. Cân nhắc lựa chọn phác đồ (thuốc) điều trị lao dựa trên các nguyên tắc nào?
-- Bệnh lao gì? (Theo phác đồ bộ y tế, ví dụ lao phổi dùng phác đồ 2RHZE/4RH).
+- Bệnh lao gì? (Theo phác đồ bộ y tế, ví dụ lao phổi dùng phác đồ 2RHZE/4RHE).
 - Có kháng thuốc không?
 - Có tiền sử dị ứng với thuốc điều trị lao không?
 - Chức năng gan, thận ra sao?
@@ -316,14 +292,10 @@ khó tìm thấy nang lao.
 - Cách duy nhất loại bỏ (làm hết hạch) là bóc tách.
 - Khi bóc tách vẫn phải điều trị lao vì vi khuẩn lao vẫn có thể tồn tại ở trong cơ thể.
 ### 95. Phân biệt việc chích rạch và bóc tách hạch trong lao.
-- Chích rạch là rạch da, nạo bỏ tổ chức bã đậu trong hạch mà phần xơ vẫn còn nguyên, sau đó khâu lại.
-Bóc tách là phẫu thuật cắt toàn bộ hạch đó ra khỏi cơ thể khi mà hạch còn chưa nhuyễn hóa, sau đó để hở vị
-trí bóc tách.
-- Vì để hở nên bóc tách sẽ chảy nhiều dịch thấm băng hơn chích rạch. Về lâu dài hạch bóc tách nguy cơ nhiễm
-trùng cao hơn so với chích rạch.
+- Chích rạch là rạch da, nạo bỏ tổ chức bã đậu trong hạch mà phần xơ vẫn còn nguyên, sau đó khâu lại. Bóc tách là phẫu thuật cắt toàn bộ hạch đó ra khỏi cơ thể khi mà hạch còn chưa nhuyễn hóa, sau đó để hở vị trí bóc tách.
+- Vì để hở nên bóc tách sẽ chảy nhiều dịch thấm băng hơn chích rạch. Về lâu dài hạch bóc tách nguy cơ nhiễm trùng cao hơn so với chích rạch.
 ### 96. BN nữ đang điều trị lao, xin ra viện về nhà chăm con sau 4 ngày điều trị. Xử trí như thế nào?
-BN có quyền được xin về nhưng nên khuyên BN ở lại để điều trị và chăm sóc thêm. Nhưng nếu BN kiên quyết ra viện thì phải
-hướng dẫn BN sử dụng thuốc, chăm sóc vết thương (mua cồn Bethadin làm sạch về thương, bỏ bông cồn vào túi đem đốt).
+BN có quyền được xin về nhưng nên khuyên BN ở lại để điều trị và chăm sóc thêm. Nhưng nếu BN kiên quyết ra viện thì phải hướng dẫn BN sử dụng thuốc, chăm sóc vết thương (mua cồn Bethadin làm sạch về thương, bỏ bông cồn vào túi đem đốt).
 ### 97. Ý nghĩa của chọc dịch màng phổi?
 - Chẩn đoán xác định (Khẳng định có tràn dịch màng phổi.)
 - Chẩn đoán tìm nguyên nhân.
@@ -356,7 +328,7 @@ hướng dẫn BN sử dụng thuốc, chăm sóc vết thương (mua cồn Beth
 - Dày có thể phát hiện trên Xquang và siêu âm.
 - Dính màng phổi chỉ có thể phát hiện trên siêu âm với đặc điểm tạo nhiều hang trong khoang màng phổi.
 ### 104. Yếu tố xấu trong tiên lượng lao màng phổi.
-- Có dày dính, có xơ.
+Có dày dính, có xơ.
 ### 105. Các tai biến sau chọc dịch màng phổi. BN chọc dịch màng phổi sau 5' xuất hiện khó thở, nêu cách xử trí.
 - Các tai biến sau chọc dịch màng phổi:
 	- Đau
@@ -385,8 +357,7 @@ chứng hô hấp ho khạc đờm kéo dài, BN được nội soi phế quản
 ### 108. Tiêm BCG sau bao lâu thì sinh kháng thể đầy đủ?
 2-3 tháng
 ### 109. Thế nào là nguồn nhiễm lao nội sinh, ngoại sinh? Nguồn nội sinh gây bệnh tồn tại bao lâu trong cơ thể?
-- Nguồn nội sinh là cơ thể nhiễm lao, sinh phản ứng khu trú vi khuẩn lao nhưng chưa tiêu diệt hoàn toàn mà vẫn tồn tại trong cơ thể.
-Nguồn ngoại sinh là vi khuẩn lao từ ngoài vào cơ thể gây bệnh.
+- Nguồn nội sinh là cơ thể nhiễm lao, sinh phản ứng khu trú vi khuẩn lao nhưng chưa tiêu diệt hoàn toàn mà vẫn tồn tại trong cơ thể. Nguồn ngoại sinh là vi khuẩn lao từ ngoài vào cơ thể gây bệnh.
 - Nguồn nội sinh có thể tồn tại 5 năm trong cơ thể.
 ### 110. Những thể lao nào chắc chắn dùng corticoid?
 Có 3 thể lao chắc chắn dùng corticoid là lao màng não, lao kê và lao màng ngoài tim.
@@ -406,9 +377,14 @@ Phân biệt chủ yếu dựa vào việc có dùng rượu hoặc thuốc khô
 hội chứng cai. Tương tự, triệu chứng INH xuất hiện sau khi dùng thuốc.
 ### 115. BN xơ gan mà men gan bình thường có dùng thuốc điều trị lao được không? Nếu men gan tăng thì sao?
 - Nếu men gan bình thường sẽ vẫn điều trị thuốc lao như bình thường.
-- Nếu men gan tăng thì điều chỉnh men gan về bình thường rồi điều trị thuốc lao. Sau đó nếu men gan tiếp tục tăng nhẹ thì bổ xung thêm
-thuốc bổ gan. Nếu men gan tăng 3 lần, dừng thuốc và điều chỉnh men gan về bình thường sau đó mới tiếp tục điều trị lao. Trường hợp
-men gan sau đó lại tăng thì ta đổi thuốc.
+- Nếu men gan tăng thì điều chỉnh men gan về bình thường rồi điều trị thuốc lao. Sau đó nếu men gan tiếp tục tăng nhẹ thì bổ xung thêm thuốc bổ gan. Nếu men gan tăng 3 lần, dừng thuốc và điều chỉnh men gan về bình thường sau đó mới tiếp tục điều trị lao. Trường hợp men gan sau đó lại tăng thì ta đổi thuốc.
 - BN xơ gan điều trị lao cần lưu ý: Loại bỏ thuốc gây độc, bảo vệ gan (thuốc bổ gan), tình trạng bệnh lý kèm theo (virus viêm gan),
 hỗ trợ làm việc (vitamin), giảm lao động cho gan (ăn uống dễ tiêu), chống xơ (corticoid).
+### 116. Xu thế điều trị lao hiện nay là gì?
+- Phương chẩn đoán bệnh lao chủ yếu dựa vào kỹ thuật sinh học phân tử như PCR, gen Xpert.
+- Phát hiện bệnh lao hiện nay chủ yếu phối hợp giữa phát hiện chủ động và thụ động.
+- Chẩn đoán lao hiện nay chủ yếu dựa vào xác nhận vi khuẩn học hay không.
+- Điều trị bệnh lao hiện nay chủ yếu dựa vào tính kháng thuốc của vi khuẩn lao.
+### 117. Thế nào là lao mới?
+Là BN chưa được chẩn đoán lao trước đó hoặc điều trị lao dưới 1 tháng.
 ### *Lưu ý thi lâm sàng lao hỏi nhiều về việc tiếp cận BN với các triệu chứng, hội chứng cụ thể cần bổ sung thêm vào tài liệu này.*
