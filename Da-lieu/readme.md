@@ -5,6 +5,5 @@ nội khoa và ngoại khoa.
 
 ## Nội dung
 
-Danh sách các bài giảng:
-
 - [Bài Giảng Da Liễu HPMU 2021](https://youtube.com/playlist?list=PLL1t1-UomvZ97JU3kqMcGudTztmjLCcvZ)
+- [Một số ý lý thuyết HPMU 2021](MCQs_HPMU.md)
