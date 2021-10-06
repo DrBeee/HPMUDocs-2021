@@ -184,7 +184,7 @@
 |Biến chứng|Bội nhiễm, đau khớp, đỏ da toàn thân, eczema hóa|
 |Điều trị|<li>Tại chỗ: Thuốc đầu tay là corticoid ngắn ngày cho giai đoạn cấp sau đó thay thế bằng thuốc khác như thuốc bạt sừng, bong vảy, làm ẩm da, calpotriol (salicylic, kẽm oxyd, daivonex, daivobet, daibetalic).</li><li>Toàn thân: Tiếp đó dùng thuốc ức chế miễn dịch (MTX, cyclosporin A). Lưu ý chống chỉ định corticoid cho BN vẩy nến.</li><li>Nếu các thuốc trên không tác dụng người ta sẽ dùng đến quang trị liệu. Cuối cùng dùng các chế phẩm sinh học (tốt nhưng đắt).</li>|
 |Theo dõi sau điều trị|Theo dõi tổn thương lâm sàng và tác dụng phụ của thuốc MTX, cyclosporin A.|
-|Phòng bệnh|Tham khảo [Viêm da cơ địa](#1-viêm-da-cơ-địa)|
+|Phòng bệnh|Tham khảo [viêm da cơ địa](#1-viêm-da-cơ-địa)|
 
 ## Một số lưu ý khác
 
