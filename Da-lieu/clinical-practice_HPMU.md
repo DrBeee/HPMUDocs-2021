@@ -2,7 +2,7 @@
 
 > Tác giả **Long Nhật Nguyễn**
 
-## Tổn thương cơ bản và các bệnh thường
+## Tổn thương cơ bản và các bệnh thường gặp
 |Tổn thương cơ bản|Bệnh thường gặp|
 |--|--|
 |Dát đỏ (xung huyết)|Dị ứng thuốc, đào ban giang mai II, viêm da cơ địa, vẩy nến|
