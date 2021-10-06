@@ -61,7 +61,7 @@
 - Chàm vi khuẩn: BN có cơ đại dị ứng, lúc này vi khuẩn đóng vai trò là dị nguyên khiến xung quanh ổ nhiễm khuẩn thay đổi màu sắc da.
 - Herpes: Mụn nước không có mủ.
 
-#### Điều trị tham khảo [viêm da cơ địa](#viêm-da-cơ-địa)
+#### Điều trị tham khảo [viêm da cơ địa](#1-viêm-da-cơ-địa)
 
 ### 3. Chốc
 
@@ -112,7 +112,7 @@
 |Xét nghiệm|Soi thấy hình ảnh bào tử xen lẫn sợi nấm ngắn|
 |Phân biệt|Giang mai II, phong thể I, bạch biến, chàm khô, viêm da dầu, v.v|
 |Chẩn đoán|Lâm sàng và xét nghiệm|
-|Điều trị|Giống như [hắc lào](#hắc-lào) do đều là nấm nông trên da|
+|Điều trị|Giống như [hắc lào](#5-hắc-lào) do đều là nấm nông trên da|
 |Phòng bệnh|Vệ sinh cá nhân, vệ sinh phòng ở.|
 
 ### 7. Giang mai
@@ -184,7 +184,7 @@
 |Biến chứng|Bội nhiễm, đau khớp, đỏ da toàn thân, eczema hóa|
 |Điều trị|<li>Tại chỗ: Thuốc đầu tay là corticoid ngắn ngày cho giai đoạn cấp sau đó thay thế bằng thuốc khác như thuốc bạt sừng, bong vảy, làm ẩm da, calpotriol (salicylic, kẽm oxyd, daivonex, daivobet, daibetalic).</li><li>Toàn thân: Tiếp đó dùng thuốc ức chế miễn dịch (MTX, cyclosporin A). Lưu ý chống chỉ định corticoid cho BN vẩy nến.</li><li>Nếu các thuốc trên không tác dụng người ta sẽ dùng đến quang trị liệu. Cuối cùng dùng các chế phẩm sinh học (tốt nhưng đắt).</li>|
 |Theo dõi sau điều trị|Theo dõi tổn thương lâm sàng và tác dụng phụ của thuốc MTX, cyclosporin A.|
-|Phòng bệnh|Tham khảo [Viêm da cơ địa](#viêm-da-cơ-địa)|
+|Phòng bệnh|Tham khảo [Viêm da cơ địa](#1-viêm-da-cơ-địa)|
 
 ## Một số lưu ý khác
 
