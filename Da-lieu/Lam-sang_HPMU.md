@@ -37,7 +37,7 @@
 #### Phân biệt viêm da tiếp xúc và viêm da cơ địa
 ||Viêm da tiếp xúc mạn tính|Viêm da cơ địa|
 |--|--|--|
-|Cơ năng|Đau, trâm chích, bỏng rát|Ngứa|
+|Cơ năng|Ngứa|Ngứa|
 |Vị trí tổn thương|Tổn thương vùng da hở, tiếp xúc nhiều|Trẻ nhũ nhi là má, trán, cằm; người lớn thường đối xứng hai bên ở mặt duỗi, nếp gấp khuỷu, khoeo chân, cổ tay, mi mắt, nếp nằn vú|
 |Nguyên nhân|Giảm hoặc mất khi không tiếp xúc dị nguyên|Tái diễn nhiều|
 |Tiền sử|Không có tiền sử dị ứng|Có tiền sử dị ứng|
